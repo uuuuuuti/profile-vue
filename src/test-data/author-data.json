@@ -1,0 +1,80 @@
+{
+                "domains": "外科学,临床医学,肿瘤学",
+                "id": "00000108",
+                "name": "李宁",
+                "unitId": "0882417",
+                "unitName": "南京军区南京总医院",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=李宁&code=00000108"
+            },
+            {
+                "domains": "建筑科学与工程,无机化工,公路与水路运输",
+                "id": "00000411",
+                "name": "孙伟",
+                "unitId": "0220478",
+                "unitName": "东南大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=孙伟&code=00000411"
+            },
+            {
+                "domains": "生物医学工程,无线电电子学,仪器仪表工业",
+                "id": "00000438",
+                "name": "李刚",
+                "unitId": "0246359",
+                "unitName": "天津大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=李刚&code=00000438"
+            },
+            {
+                "domains": "生物学,植物保护,农业基础科学",
+                "id": "00000506",
+                "name": "何俊华",
+                "unitId": "0157820",
+                "unitName": "浙江大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=何俊华&code=00000506"
+            },
+            {
+                "domains": "电信技术,自动化技术,计算机软件及计算机应用",
+                "id": "00000857",
+                "name": "何振亚",
+                "unitId": "0220478",
+                "unitName": "东南大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=何振亚&code=00000857"
+            },
+            {
+                "domains": "互联网技术,计算机软件及计算机应用,电信技术",
+                "id": "00000978",
+                "name": "李建华",
+                "unitId": "0054402",
+                "unitName": "上海交通大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=李建华&code=00000978"
+            },
+            {
+                "domains": "外科学,生物医学工程,儿科学",
+                "id": "00001290",
+                "name": "李明",
+                "unitId": "1050605",
+                "unitName": "第二军医大学附属长海医院",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=李明&code=00001290"
+            },
+            {
+                "domains": "化学,有机化工,数学",
+                "id": "00001430",
+                "name": "游效曾",
+                "unitId": "0069758",
+                "unitName": "南京大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=游效曾&code=00001430"
+            },
+            {
+                "domains": "自动化技术,计算机软件及计算机应用,互联网技术",
+                "id": "00001432",
+                "name": "陈世福",
+                "unitId": "0069758",
+                "unitName": "南京大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=陈世福&code=00001432"
+            },
+            {
+                "domains": "电信技术,计算机软件及计算机应用,互联网技术",
+                "id": "00001527",
+                "name": "杨放春",
+                "unitId": "0041796",
+                "unitName": "北京邮电大学",
+                "url": "http://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=au&skey=杨放春&code=00001527"
+            }
